@@ -1,2 +1,2 @@
-# temp_test
-Test repo
+# Computer Vision Course
+Assignments and Project repo
